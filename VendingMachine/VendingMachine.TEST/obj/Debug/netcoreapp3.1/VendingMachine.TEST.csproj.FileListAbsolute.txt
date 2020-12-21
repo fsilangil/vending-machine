@@ -1,0 +1,9 @@
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.TEST\bin\Debug\netcoreapp3.1\VendingMachine.TEST.deps.json
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.TEST\bin\Debug\netcoreapp3.1\VendingMachine.TEST.dll
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.TEST\bin\Debug\netcoreapp3.1\VendingMachine.TEST.pdb
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.TEST\obj\Debug\netcoreapp3.1\VendingMachine.TEST.csprojAssemblyReference.cache
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.TEST\obj\Debug\netcoreapp3.1\VendingMachine.TEST.AssemblyInfoInputs.cache
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.TEST\obj\Debug\netcoreapp3.1\VendingMachine.TEST.AssemblyInfo.cs
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.TEST\obj\Debug\netcoreapp3.1\VendingMachine.TEST.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.TEST\obj\Debug\netcoreapp3.1\VendingMachine.TEST.dll
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.TEST\obj\Debug\netcoreapp3.1\VendingMachine.TEST.pdb

@@ -1,0 +1,9 @@
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.VUE\bin\Debug\netcoreapp3.1\VendingMachine.VUE.deps.json
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.VUE\bin\Debug\netcoreapp3.1\VendingMachine.VUE.dll
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.VUE\bin\Debug\netcoreapp3.1\VendingMachine.VUE.pdb
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.VUE\obj\Debug\netcoreapp3.1\VendingMachine.VUE.csprojAssemblyReference.cache
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.VUE\obj\Debug\netcoreapp3.1\VendingMachine.VUE.AssemblyInfoInputs.cache
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.VUE\obj\Debug\netcoreapp3.1\VendingMachine.VUE.AssemblyInfo.cs
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.VUE\obj\Debug\netcoreapp3.1\VendingMachine.VUE.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.VUE\obj\Debug\netcoreapp3.1\VendingMachine.VUE.dll
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.VUE\obj\Debug\netcoreapp3.1\VendingMachine.VUE.pdb

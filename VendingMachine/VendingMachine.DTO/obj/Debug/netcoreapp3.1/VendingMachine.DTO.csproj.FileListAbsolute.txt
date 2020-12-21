@@ -1,0 +1,9 @@
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DTO\bin\Debug\netcoreapp3.1\VendingMachine.DTO.deps.json
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DTO\bin\Debug\netcoreapp3.1\VendingMachine.DTO.dll
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DTO\bin\Debug\netcoreapp3.1\VendingMachine.DTO.pdb
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DTO\obj\Debug\netcoreapp3.1\VendingMachine.DTO.csprojAssemblyReference.cache
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DTO\obj\Debug\netcoreapp3.1\VendingMachine.DTO.AssemblyInfoInputs.cache
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DTO\obj\Debug\netcoreapp3.1\VendingMachine.DTO.AssemblyInfo.cs
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DTO\obj\Debug\netcoreapp3.1\VendingMachine.DTO.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DTO\obj\Debug\netcoreapp3.1\VendingMachine.DTO.dll
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DTO\obj\Debug\netcoreapp3.1\VendingMachine.DTO.pdb

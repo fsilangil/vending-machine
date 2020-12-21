@@ -1,0 +1,15 @@
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DAL\bin\Debug\netcoreapp3.1\VendingMachine.DAL.deps.json
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DAL\bin\Debug\netcoreapp3.1\VendingMachine.DAL.runtimeconfig.json
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DAL\bin\Debug\netcoreapp3.1\VendingMachine.DAL.runtimeconfig.dev.json
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DAL\bin\Debug\netcoreapp3.1\VendingMachine.DAL.dll
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DAL\bin\Debug\netcoreapp3.1\VendingMachine.DAL.pdb
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DAL\bin\Debug\netcoreapp3.1\VendingMachine.DTO.dll
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DAL\bin\Debug\netcoreapp3.1\VendingMachine.DTO.pdb
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DAL\obj\Debug\netcoreapp3.1\VendingMachine.DAL.csprojAssemblyReference.cache
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DAL\obj\Debug\netcoreapp3.1\VendingMachine.DAL.AssemblyInfoInputs.cache
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DAL\obj\Debug\netcoreapp3.1\VendingMachine.DAL.AssemblyInfo.cs
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DAL\obj\Debug\netcoreapp3.1\VendingMachine.DAL.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DAL\obj\Debug\netcoreapp3.1\VendingMachine.DAL.csproj.CopyComplete
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DAL\obj\Debug\netcoreapp3.1\VendingMachine.DAL.dll
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DAL\obj\Debug\netcoreapp3.1\VendingMachine.DAL.pdb
+C:\Users\win10\source\repos\VendingMachine\VendingMachine\VendingMachine.DAL\obj\Debug\netcoreapp3.1\VendingMachine.DAL.genruntimeconfig.cache
